@@ -1,9 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T09:09:57.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.17" etag="upfR3qk0ZEnEOLATDcYe" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T15:23:02.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7nOEOOXzmpFyJlhtjI1y" version="22.1.18" type="github">
   <diagram name="第 1 页" id="B0W3JR8AoADUTEzf3Xl4">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iWsHoCOtUD4oy4cMPRVb-1" target="iWsHoCOtUD4oy4cMPRVb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iWsHoCOtUD4oy4cMPRVb-1" target="iWsHoCOtUD4oy4cMPRVb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iWsHoCOtUD4oy4cMPRVb-1" target="iWsHoCOtUD4oy4cMPRVb-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="695" y="453" />
+              <mxPoint x="695" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
+          <mxGeometry x="425" y="402.5" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iWsHoCOtUD4oy4cMPRVb-2" target="iWsHoCOtUD4oy4cMPRVb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
+          <mxGeometry x="825" y="302.5" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iWsHoCOtUD4oy4cMPRVb-3" target="iWsHoCOtUD4oy4cMPRVb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
+          <mxGeometry x="825" y="510" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iWsHoCOtUD4oy4cMPRVb-4" target="iWsHoCOtUD4oy4cMPRVb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
+          <mxGeometry x="425" y="140" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-5" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="317.5" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-6" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="525" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-7" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="420" y="670" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-8" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="805" y="155" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iWsHoCOtUD4oy4cMPRVb-1" target="iWsHoCOtUD4oy4cMPRVb-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="475" y="502.5" as="sourcePoint" />
+            <mxPoint x="955" y="417.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="695" y="453" />
+              <mxPoint x="695" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-16" value="主父域&lt;br&gt;IP：192.168.72.5&lt;br&gt;DNS：192.168.72.5" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="370" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-17" value="子域1&lt;br&gt;IP：192.168.72.6&lt;br&gt;DNS1：192.168.72.6&lt;br&gt;DNS2：192.168.72.5" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="935" y="280" width="140" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-24" value="单域-成员机&lt;br&gt;IP：192.168.72.21&lt;br&gt;DNS：192.168.72.20" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="925" y="155" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-25" value="子域2&lt;br&gt;IP：192.168.72.7&lt;br&gt;DNS1：192.168.72.7&lt;br&gt;DNS2：192.168.72.5" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="925" y="490" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-26" value="单域&lt;br&gt;IP：192.168.72.20&lt;br&gt;DNS：192.168.72.20" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="110" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-27" value="子域2-成员机&lt;br&gt;IP：192.168.72.10&lt;br&gt;DNS：192.168.72.7" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="530" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-29" value="子域1-成员机&lt;br&gt;IP：192.168.72.9&lt;br&gt;DNS：192.168.72.6" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="320" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="iWsHoCOtUD4oy4cMPRVb-30" value="主域-成员机&lt;br&gt;IP：192.168.72.8&lt;br&gt;DNS：192.168.72.5" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="675" width="150" height="65" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
