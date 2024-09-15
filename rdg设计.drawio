@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2024-09-15T14:50:28.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.6.2" etag="ve-p8vWAbrdQYYvFK3uQ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-09-15T15:02:56.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="Z7-aFoRGEZnk4-wVJAlt" version="24.6.2" type="github">
   <diagram name="第 1 页" id="y8SnvAQYcHVqcFEFBBNA">
-    <mxGraphModel>
+    <mxGraphModel dx="1728" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wA_zci91STuud8swd9hr-13" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="219" width="220" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="wA_zci91STuud8swd9hr-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="745" y="219" width="380" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="wA_zci91STuud8swd9hr-11" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="219" width="420" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="wA_zci91STuud8swd9hr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wA_zci91STuud8swd9hr-1" target="wA_zci91STuud8swd9hr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wA_zci91STuud8swd9hr-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
+          <mxGeometry x="75" y="371.5" width="100" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="wA_zci91STuud8swd9hr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wA_zci91STuud8swd9hr-2" target="wA_zci91STuud8swd9hr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wA_zci91STuud8swd9hr-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.web_server;" vertex="1" parent="1">
+          <mxGeometry x="345" y="361.5" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="wA_zci91STuud8swd9hr-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="575" y="379" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wA_zci91STuud8swd9hr-5" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="855" y="301.5" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wA_zci91STuud8swd9hr-6" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="855" y="461.5" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wA_zci91STuud8swd9hr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wA_zci91STuud8swd9hr-3" target="wA_zci91STuud8swd9hr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wA_zci91STuud8swd9hr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wA_zci91STuud8swd9hr-3" target="wA_zci91STuud8swd9hr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wA_zci91STuud8swd9hr-14" value="&lt;div&gt;ubuntu16&lt;/div&gt;ip1：192.168.10.177/24&lt;div&gt;ip2：172.172.1.2/24&lt;/div&gt;&lt;div&gt;ubuntu/iU2FcuFVeKevD3&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="271.5" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wA_zci91STuud8swd9hr-15" value="php漏洞&lt;div&gt;tomcat漏洞&lt;/div&gt;&lt;div&gt;redis漏洞&lt;/div&gt;&lt;div&gt;root目录放敏感信息&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="481.5" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wA_zci91STuud8swd9hr-16" value="&lt;div&gt;win7&lt;/div&gt;ip1：172.172.1.3/24&lt;div&gt;ip2：172.172.111/2/24&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="261.5" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wA_zci91STuud8swd9hr-17" value="ms17-010&lt;div&gt;iis/asp漏洞/代码泄露&lt;/div&gt;&lt;div&gt;sql-server漏洞&lt;/div&gt;&lt;div&gt;登录域管账号&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="471.5" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wA_zci91STuud8swd9hr-18" value="&lt;div&gt;win-server-2012&lt;/div&gt;ip：172.172.200.100/24" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="805" y="241.5" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wA_zci91STuud8swd9hr-19" value="&lt;div&gt;win10&lt;/div&gt;ip：172.172.200.200/24" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="795" y="421.5" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wA_zci91STuud8swd9hr-20" value="域渗透" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="399" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
